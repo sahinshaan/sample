@@ -103,6 +103,8 @@ mysqli_close($link);
 		  
 		  <span class="savemsg"> <?php echo $save; ?> 
 		  	</span>
+		  <span class="savemsg"> <?php echo $save; ?> 
+		  	</span>
 		 
          </form>
 			
